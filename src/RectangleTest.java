@@ -8,7 +8,7 @@ public class RectangleTest {
   public void testGetArea() {
     assertEquals(myRectangle.getArea(), 30);
   }
-
+  
   @Test
   public void testGetPerimeter() {
     assertEquals(myRectangle.getPerimeter(), 22);
